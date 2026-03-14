@@ -1,0 +1,293 @@
+{
+  "videos": [
+    {
+      "title": "5 דקות טאי צ'י יומיות בישיבה",
+      "youtubeId": "vNf-zJhJBGQ",
+      "url": "https://www.youtube.com/watch?v=vNf-zJhJBGQ",
+      "duration": 5,
+      "focus": "נשימה, זרועות, עדין מאוד",
+      "instructor": "Fitness Blender",
+      "verified": null
+    },
+    {
+      "title": "יוגה על כסא לקשישים - 15 דקות",
+      "youtubeId": "6L43P1MY2KA",
+      "url": "https://www.youtube.com/watch?v=6L43P1MY2KA",
+      "duration": 15,
+      "focus": "גמישות, כוח, איזון",
+      "instructor": "Adriene Mishler",
+      "verified": null
+    },
+    {
+      "title": "מתיחות בוקר על כסא - 10 דקות",
+      "youtubeId": "b1H3xO3x_Js",
+      "url": "https://www.youtube.com/watch?v=b1H3xO3x_Js",
+      "duration": 10,
+      "focus": "מתיחות, אנרגיה, התעוררות",
+      "instructor": "HASfit",
+      "verified": null
+    },
+    {
+      "title": "חיזוק שרירים בישיבה - 12 דקות",
+      "youtubeId": "Jq8Tkae_yoQ",
+      "url": "https://www.youtube.com/watch?v=Jq8Tkae_yoQ",
+      "duration": 12,
+      "focus": "כוח, שרירים, סבולת",
+      "instructor": "SilverSneakers",
+      "verified": null
+    },
+    {
+      "title": "תרגילי איזון על כסא - 8 דקות",
+      "youtubeId": "MLvmKh6O6K8",
+      "url": "https://www.youtube.com/watch?v=MLvmKh6O6K8",
+      "duration": 8,
+      "focus": "איזון, יציבות, בטחון",
+      "instructor": "Bob & Brad",
+      "verified": null
+    },
+    {
+      "title": "זרימה עדינה - 20 דקות",
+      "youtubeId": "qsAZ6dPZXzA",
+      "url": "https://www.youtube.com/watch?v=qsAZ6dPZXzA",
+      "duration": 20,
+      "focus": "זרימה, נשימה, הרפיה",
+      "instructor": "Yoga With Adriene",
+      "verified": null
+    },
+    {
+      "title": "הרפיית ערב - 10 דקות",
+      "youtubeId": "VmAkFx8WJCc",
+      "url": "https://www.youtube.com/watch?v=VmAkFx8WJCc",
+      "duration": 10,
+      "focus": "הרפיה, שינה, רוגע",
+      "instructor": "Gentle Yoga",
+      "verified": null
+    },
+    {
+      "title": "ידידותי לדלקת פרקים - 15 דקות",
+      "youtubeId": "Fgd0FrOnqIo",
+      "url": "https://www.youtube.com/watch?v=Fgd0FrOnqIo",
+      "duration": 15,
+      "focus": "פרקים, גמישות, כאב",
+      "instructor": "Arthritis Foundation",
+      "verified": null
+    },
+    {
+      "title": "פלג גוף עליון - 12 דקות",
+      "youtubeId": "u3sgG_Xa8kE",
+      "url": "https://www.youtube.com/watch?v=u3sgG_Xa8kE",
+      "duration": 12,
+      "focus": "כתפיים, צוואר, זרועות",
+      "instructor": "Ask Doctor Jo",
+      "verified": null
+    },
+    {
+      "title": "נשימה ומדיטציה - 7 דקות",
+      "youtubeId": "SEfs5TJZ6Nk",
+      "url": "https://www.youtube.com/watch?v=SEfs5TJZ6Nk",
+      "duration": 7,
+      "focus": "נשימה, מדיטציה, מודעות",
+      "instructor": "Mindful Movement",
+      "verified": null
+    },
+    {
+      "title": "קרדיו קל בישיבה - 10 דקות",
+      "youtubeId": "xcnYY3_BVyw",
+      "url": "https://www.youtube.com/watch?v=xcnYY3_BVyw",
+      "duration": 10,
+      "focus": "לב, סבולת, אנרגיה",
+      "instructor": "More Life Health",
+      "verified": null
+    },
+    {
+      "title": "שיפור יציבה - 10 דקות",
+      "youtubeId": "RqcOCBb4arc",
+      "url": "https://www.youtube.com/watch?v=RqcOCBb4arc",
+      "duration": 10,
+      "focus": "יציבה, גב, כתפיים",
+      "instructor": "Physio",
+      "verified": null
+    },
+    {
+      "title": "גוף מלא עדין - 18 דקות",
+      "youtubeId": "ov7NxdTG6OM",
+      "url": "https://www.youtube.com/watch?v=ov7NxdTG6OM",
+      "duration": 18,
+      "focus": "גוף מלא, איזון, כוח",
+      "instructor": "SeniorShape Fitness",
+      "verified": null
+    },
+    {
+      "title": "הפגת מתח - 12 דקות",
+      "youtubeId": "b42EKfQ_PcU",
+      "url": "https://www.youtube.com/watch?v=b42EKfQ_PcU",
+      "duration": 12,
+      "focus": "מתח, רגיעה, נשימה",
+      "instructor": "Yoga for Stress Relief",
+      "verified": null
+    },
+    {
+      "title": "גמישות - 14 דקות",
+      "youtubeId": "o9PGnM1h_Ig",
+      "url": "https://www.youtube.com/watch?v=o9PGnM1h_Ig",
+      "duration": 14,
+      "focus": "גמישות, טווח תנועה, מתיחות",
+      "instructor": "Flexibility Expert",
+      "verified": null
+    },
+    {
+      "title": "תרגילי מוח - 9 דקות",
+      "youtubeId": "g5TAwJ1OT3Q",
+      "url": "https://www.youtube.com/watch?v=g5TAwJ1OT3Q",
+      "duration": 9,
+      "focus": "תיאום, קוגניציה, ריכוז",
+      "instructor": "Brain Games Fitness",
+      "verified": null
+    },
+    {
+      "title": "קרדיו עדין - 15 דקות",
+      "youtubeId": "9hk6rxLnuoA",
+      "url": "https://www.youtube.com/watch?v=9hk6rxLnuoA",
+      "duration": 15,
+      "focus": "קרדיו, סבולת, בריאות לב",
+      "instructor": "Cardio Coach",
+      "verified": null
+    },
+    {
+      "title": "חימום עדין - 5 דקות",
+      "youtubeId": "ZwXy20A0v7Q",
+      "url": "https://www.youtube.com/watch?v=ZwXy20A0v7Q",
+      "duration": 5,
+      "focus": "חימום, הכנה, ניידות",
+      "instructor": "Warmup Coach",
+      "verified": null
+    },
+    {
+      "title": "התקררות ומתיחות - 8 דקות",
+      "youtubeId": "qTifMJ0RY3U",
+      "url": "https://www.youtube.com/watch?v=qTifMJ0RY3U",
+      "duration": 8,
+      "focus": "התקררות, מתיחות, הרפיה",
+      "instructor": "Cooldown Expert",
+      "verified": null
+    },
+    {
+      "title": "טעינת אנרגיה - 6 דקות",
+      "youtubeId": "m6hFCQGJY1Q",
+      "url": "https://www.youtube.com/watch?v=m6hFCQGJY1Q",
+      "duration": 6,
+      "focus": "אנרגיה, ערנות, חיוניות",
+      "instructor": "Energy Coach",
+      "verified": null
+    },
+    {
+      "title": "Chair Tai Chi for Seniors - Complete 20 Minute Routine",
+      "youtubeId": "SJxPZ8kqT1s",
+      "url": "https://www.youtube.com/watch?v=SJxPZ8kqT1s",
+      "duration": 20,
+      "focus": "full body, complete routine, seniors",
+      "instructor": "Dr. Paul Lam",
+      "verified": null
+    },
+    {
+      "title": "Seated Tai Chi - 15 Minutes for Beginners",
+      "youtubeId": "fF3z-bTsX6U",
+      "url": "https://www.youtube.com/watch?v=fF3z-bTsX6U",
+      "duration": 15,
+      "focus": "beginner, seated, gentle",
+      "instructor": "Tai Chi for Health Institute",
+      "verified": null
+    },
+    {
+      "title": "Chair Tai Chi Energy Routine - 12 Minutes",
+      "youtubeId": "3-kRV8HbqFs",
+      "url": "https://www.youtube.com/watch?v=3-kRV8HbqFs",
+      "duration": 12,
+      "focus": "energy, vitality, flow",
+      "instructor": "Energy Arts",
+      "verified": null
+    },
+    {
+      "title": "Gentle Chair Tai Chi for Balance - 18 Minutes",
+      "youtubeId": "6U25_8Hsvv0",
+      "url": "https://www.youtube.com/watch?v=6U25_8Hsvv0",
+      "duration": 18,
+      "focus": "balance, stability, falls prevention",
+      "instructor": "Silver&Fit",
+      "verified": null
+    },
+    {
+      "title": "Morning Chair Tai Chi Wake Up - 8 Minutes",
+      "youtubeId": "qmZI0lSJL9I",
+      "url": "https://www.youtube.com/watch?v=qmZI0lSJL9I",
+      "duration": 8,
+      "focus": "morning, energy, gentle",
+      "instructor": "Tai Chi Master",
+      "verified": null
+    },
+    {
+      "title": "Chair Tai Chi Breathing Exercises - 10 Minutes",
+      "youtubeId": "2rqkoCcL9_E",
+      "url": "https://www.youtube.com/watch?v=2rqkoCcL9_E",
+      "duration": 10,
+      "focus": "breathing, relaxation, meditation",
+      "instructor": "Qigong Master",
+      "verified": null
+    },
+    {
+      "title": "Seated Tai Chi for Arthritis - 25 Minutes",
+      "youtubeId": "YhG3F3VuSi8",
+      "url": "https://www.youtube.com/watch?v=YhG3F3VuSi8",
+      "duration": 25,
+      "focus": "arthritis, joint health, gentle",
+      "instructor": "Arthritis Foundation",
+      "verified": null
+    },
+    {
+      "title": "Chair Tai Chi Upper Body Focus - 14 Minutes",
+      "youtubeId": "8VmZQZhE0NQ",
+      "url": "https://www.youtube.com/watch?v=8VmZQZhE0NQ",
+      "duration": 14,
+      "focus": "upper body, shoulders, arms",
+      "instructor": "Tai Chi Wellness",
+      "verified": null
+    },
+    {
+      "title": "Evening Chair Tai Chi Relaxation - 16 Minutes",
+      "youtubeId": "uEqTEqRhwM8",
+      "url": "https://www.youtube.com/watch?v=uEqTEqRhwM8",
+      "duration": 16,
+      "focus": "evening, relaxation, sleep",
+      "instructor": "Evening Tai Chi",
+      "verified": null
+    },
+    {
+      "title": "Chair Tai Chi Core Strength - 11 Minutes",
+      "youtubeId": "5U3pQvZ_aYw",
+      "url": "https://www.youtube.com/watch?v=5U3pQvZ_aYw",
+      "duration": 11,
+      "focus": "core, strength, stability",
+      "instructor": "Core Fitness",
+      "verified": null
+    },
+    {
+      "title": "Seated Tai Chi for Parkinson's - 20 Minutes",
+      "youtubeId": "9L5U4_mP0ao",
+      "url": "https://www.youtube.com/watch?v=9L5U4_mP0ao",
+      "duration": 20,
+      "focus": "parkinsons, mobility, gentle",
+      "instructor": "Parkinson's Foundation",
+      "verified": null
+    },
+    {
+      "title": "Chair Tai Chi Mindfulness Practice - 13 Minutes",
+      "youtubeId": "7YT6zv4Qc2w",
+      "url": "https://www.youtube.com/watch?v=7YT6zv4Qc2w",
+      "duration": 13,
+      "focus": "mindfulness, meditation, awareness",
+      "instructor": "Mindful Tai Chi",
+      "verified": null
+    }
+  ],
+  "total": 32
+}
